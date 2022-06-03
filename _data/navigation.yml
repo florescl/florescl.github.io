@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Invited Talks"
+    url: /talks/    
+        
+  - title: "Service"
+    url: /service/
