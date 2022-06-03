@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amy Zhang"
-  avatar           : "profile.png"
-  bio              : "Postdoc at UC Berkeley, research scientist at Facebook AI Research. Works on state abstractions and generalization in reinforcement learning."
+  name             : "Laura Florescu"
+  avatar           : "me.jpeg"
+  bio              : "AI researcher"
   location         : # "Montreal, QC"
   employer         :
   pubmed           : 
