@@ -30,11 +30,11 @@ author_profile: true
 Asymptotics in one form or another are part of the landscape for every mathematician. The objective of this book is to present the ideas of how to approach asymptotic problems that arise in discrete mathematics, analysis of algorithms, and number theory. A broad range of topics is covered, including distribution of prime integers, Erdős Magic, random graphs, Ramsey numbers, and asymptotic geometry.
 
 [Escape rates for rotor walks in Z^d](https://arxiv.org/abs/1301.3521)
-(SIAM J. Discrete Math, 2014)
+(SIAM J. Discrete Math, 2014)\
 **L Florescu**, S Ganguly, L Levine, Y Peres
 
 [Dominos and Sandpiles](https://arxiv.org/abs/1406.0100)
-(Electronic Journal of Combinatorics, 2015)
+(Electronic Journal of Combinatorics, 2015)\
 **L Florescu**, D Morar, D Perkinson, N Salter, T Xu
 
 
