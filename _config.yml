@@ -83,8 +83,8 @@ author:
   name             : "Laura Florescu"
   avatar           : "me.jpeg"
   bio              : "AI researcher"
-  location         : # "SF, CA"
-  employer         :
+  location         : "SF, CA"
+  employer         : "mosaicml.com"
   pubmed           : 
   googlescholar    : ""
   email            : "lara.florescu (at) gmail (dot) com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/laura-florescu-48692b103/"
   orcid            : 
   pinterest        :
   soundcloud       :
